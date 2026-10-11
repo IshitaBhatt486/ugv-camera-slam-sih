@@ -1,0 +1,3 @@
+GPS-DENIED. NOT DIRECTIONLESS.
+
+Andromeda combines camera-based visual SLAM, a live occupancy map, and Nav2 goal navigation into a rover mission-control demo — every result is measured, and every limitation is documented.
